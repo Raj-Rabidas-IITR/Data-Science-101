@@ -2,6 +2,13 @@
 
 This project focuses on performing Exploratory Data Analysis (EDA) using Python. The goal is to analyze and visualize the provided dataset to gain insights and understand the relationships between variables. The analysis includes both **univariate** and **bivariate** techniques, leveraging popular Python libraries.
 
+
+## Author
+- **Name**: Raj Rabidas
+- **College**: Indian Institute of Technology Roorkee (IITR)
+- **Branch**: Metallurgical and Materials Engineering ,B.tech 4y
+
+
 ## Libraries Used
 The following libraries are used for data analysis and visualization:
 - **Pandas**: For efficient data manipulation and analysis.
