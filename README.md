@@ -6,7 +6,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) using Python.
 ## Author
 - **Name**: Raj Rabidas
 - **College**: Indian Institute of Technology Roorkee (IITR)
-- **Branch**: Metallurgical and Materials Engineering ,B.tech 4y
+- **Branch**: Metallurgical and Materials Engineering ,B.tech 2nd year
 
 
 ## Libraries Used
